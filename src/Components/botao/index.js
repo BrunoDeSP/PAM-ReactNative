@@ -34,7 +34,7 @@ const estilo = StyleSheet.create({
     },
     textoBotao:{
         color:'white',
-        fontWeight:'bold'
+        fontWeight:'bold',
     },
     botoes:{
         padding:5,
